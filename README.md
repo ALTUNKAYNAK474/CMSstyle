@@ -9,3 +9,4 @@ Bu projemizde kendi basit bir CMS oluşturduk. CMS (İçerik Yönetim Sistemi), 
 --HTML hatası.
 --Görünüm/Tasarım
 
+Ders üzerinden gidilmiştir.
